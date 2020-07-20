@@ -1,0 +1,25 @@
+{
+  "name": "python-serverless-aws-skeleton",
+  "version": "1.0.0",
+  "description": "### Основные фрэймворки: - serverless - pynamodb - marshmallow - structlog",
+  "main": "index.js",
+  "dependencies": {
+    "serverless": "^1.75.1",
+    "serverless-plugin-warmup": "^4.9.0",
+    "serverless-python-requirements": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavelevArtemD/python-serverless-AWS-skeleton.git"
+  },
+  "author": "Savelev Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavelevArtemD/python-serverless-AWS-skeleton/issues"
+  },
+  "homepage": "https://github.com/SavelevArtemD/python-serverless-AWS-skeleton#readme"
+}
