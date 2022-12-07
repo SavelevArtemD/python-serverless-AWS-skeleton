@@ -4,7 +4,7 @@
   "description": "### Основные фрэймворки: - serverless - pynamodb - marshmallow - structlog",
   "main": "index.js",
   "dependencies": {
-    "serverless": "^1.75.1",
+    "serverless": "^3.25.1",
     "serverless-plugin-warmup": "^4.9.0",
     "serverless-python-requirements": "^5.1.0"
   },
